@@ -1,0 +1,2 @@
+# Memoire_M1_Actuariat
+Projet Mémoire Master 1 Mathématique appliquées Majeure Actuariat Université Paris Dauphine. Sujet : Tarification en assurance IARD avec les GLM et les GAM. Analyse de données en R (ACP, AFC, tests statistiques). Proposition d’un tarificateur en se basant sur deux méthodes : les modèles linéaires généralisés (GLM) et les modèles additifs généralisés (GAM). Calcul de la prime pure et détermination de la prime commerciale intégrant la marge de risque par simulation, des deux approches GLM et GAM.
